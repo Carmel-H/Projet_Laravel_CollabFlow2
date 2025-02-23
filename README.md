@@ -19,14 +19,14 @@ Bienvenue dans l'application de gestion de projets collaboratifs ! Cette applica
 ### 🎯 Tableau de bord (Dashboard)
 Le tableau de bord affiche tous les projets auxquels l'utilisateur participe avec un aperçu des tâches et de leur avancement.
 
-![Dashboard Screenshot](screenshots/Dashbord.png)
+![Dashboard Screenshot](screenshots/dashboard.png)
 
 ### 📁 Gestion des projets
 - Création de nouveaux projets avec titre, description et dates.
 - Attribution de rôles (Admin, Membre, Spectateur).
 - Suivi de l'état du projet (En cours, Terminé, En attente).
 
-![Project Management Screenshot](screenshots/gestion_projet.png)
+![Project Management Screenshot](screenshots/projet.png)
 
 ### ✅ Gestion des tâches
 - Ajout, modification et suppression de tâches.
@@ -39,7 +39,7 @@ Le tableau de bord affiche tous les projets auxquels l'utilisateur participe ave
 - Notifications par email pour les nouvelles tâches et échéances.
 - Notifications en temps réel via Laravel Echo (optionnel).
 
-![Notifications Screenshot](screenshots/page_de_notification.png)
+![Notifications Screenshot](screenshots/notif.png)
 
 ---
 
@@ -56,7 +56,7 @@ Assurez-vous d'avoir installé les éléments suivants :
 ### 🚀 Installation
 1. **Cloner le dépôt**
 ```bash
-git clone https://github.com/votre-utilisateur/votre-repo.git
+git clone  https://github.com/Carmel-H/Projet_Laravel_CollabFlow2.git
 cd votre-repo
 ```
 
